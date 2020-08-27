@@ -1,0 +1,53 @@
+{
+    "publisher": "AderisMartins",
+    "icon": "logo.png",
+    "galleryBanner": {
+      "color": "#030518",
+      "theme": "dark"
+    },
+    "keywords": [
+      "react",
+      "typescript",
+      "next",
+      "styled-components",
+      "graphql",
+      "apollo"
+    ],
+    "repository": {
+      "url": "https://github.com/AderisMartins/react-dev-pack"
+    },
+    "homepage": "https://github.com/AderisMartins/react-dev-pack",
+    "bugs": {
+      "url": "https://github.com/AderisMartins/react-dev-pack/issues"
+    },
+
+    "name": "react-dev-pack",
+    "displayName": "React Dev Pack",
+    "description": "A collection of extensions for development with React",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "patbenatar.advanced-new-file",
+        "mrmlnc.vscode-duplicate",
+        "jpoissonnier.vscode-styled-components",
+        "xabikos.javascriptsnippets",
+        "waderyan.gitblame",
+        "ms-vsliveshare.vsliveshare",
+        "apollographql.vscode-apollo",
+        "editorconfig.editorconfig",
+        "dbaeumer.vscode-eslint",
+        "pulkitgangwar.nextjs-snippets",
+        "zhuangtongfa.material-theme",
+        "ms-vscode.vscode-typescript-next",
+        "esbenp.prettier-vscode",
+        "formulahendry.auto-rename-tag",
+        "andys8.jest-snippets",
+        "skyran.js-jsx-snippets",
+        "VisualStudioExptTeam.vscodeintellicode"
+    ]
+}
